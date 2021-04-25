@@ -16,12 +16,16 @@ javascript RPG written with classes in ES6
 First of all, install [node](https://nodejs.org/en/).
 Here are the list of commands used to get the application working:
 
-`npm init` `npm iinstall jest`
+`npm init`
+
+`npm install jest`
 
 ## Usage
 
-Command line RPG, an example of test driven development.
-Don't forget to add images! ![placeholder](https://via.placeholder.com/150)
+Command line RPG, an example of test driven development. Tests indicate the expectations for the constructed objects. These expectations are met in the constructor functions.
+Don't forget to add images!
+
+![placeholder](https://via.placeholder.com/150)
 
 ## License
 
@@ -53,7 +57,9 @@ nothing to [shout out](URLs)
 
 ## Tests
 
-run the tests
+Check the documentation for [jest](https://jestjs.io/).
+
+`npm run test`
 
 ## Questions
 
