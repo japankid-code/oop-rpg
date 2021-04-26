@@ -25,7 +25,7 @@ Here are the list of commands used to get the application working:
 Command line RPG, an example of test driven development. Tests indicate the expectations for the constructed objects. These expectations are met in the constructor functions.
 Don't forget to add images!
 
-![placeholder](https://via.placeholder.com/150)
+![tests passed](https://prnt.sc/122cnp5)
 
 ## License
 
