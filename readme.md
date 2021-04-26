@@ -20,6 +20,8 @@ Here are the list of commands used to get the application working:
 
 `npm install jest`
 
+`npm install inquirer`
+
 ## Usage
 
 Command line RPG, an example of test driven development. Tests indicate the expectations for the constructed objects. These expectations are met in the constructor functions.
